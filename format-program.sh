@@ -1,0 +1,1 @@
+autoflake --remove-all-unused-imports *.py
